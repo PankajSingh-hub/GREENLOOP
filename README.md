@@ -111,14 +111,3 @@ The main objective of GREENLOOP is to encourage student participation in environ
 It aims to promote environmental awareness, responsible resource management and student-led campus initiatives.
 
 ---
-
-## 🔮 Future Improvements
-
-- MySQL database integration for permanent registration storage.
-- Student login and registration history.
-- Admin dashboard to manage applications.
-- Email confirmation after successful registration.
-- Application status tracking.
-- Downloadable PDF application receipts.
-
----
